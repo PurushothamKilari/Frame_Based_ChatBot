@@ -1,0 +1,3 @@
+python -m spacy download en_core_web_sm
+pip install numpy sklearn nltk spacy flask joblib
+python -m spacy download en_core_web_md
